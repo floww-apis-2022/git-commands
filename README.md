@@ -1,7 +1,3 @@
-Below is a rewritten version suitable for a README file, structured to enhance readability and organization:
-
----
-
 # GitHub Commands Guide
 
 This guide provides a concise overview of common GitHub commands, organized by functionality. Whether you're getting started with a new project, managing your files, branching and merging, sharing updates, or inspecting your repository, this reference can help streamline your workflow.
@@ -111,5 +107,3 @@ This guide provides a concise overview of common GitHub commands, organized by f
   Previews changes between branches before merging.
 
 ---
-
-Feel free to adjust any parts of this guide to fit your project's specific needs or preferences.
